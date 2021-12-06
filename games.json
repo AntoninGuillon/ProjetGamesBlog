@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "617170d6259c59f677d89888"
+  },
+  "title": "The Elder Scroll V : Skyrim",
+  "type": "Action - RPG",
+  "theme": "Medieval - Fantasy",
+  "release": "Novembre 2011",
+  "dlc": "Dragonborn - Hearthfire - Dawnguard",
+  "description": "The Elder Scrolls V : Skyrim est un jeu de rôle d'action, jouable à la première ou à la troisième personne. Le joueur peut parcourir librement les terres de Skyrim, un monde ouvert composé d'étendues sauvages, de donjons, de grottes, de villes, de forteresses et de villages.",
+  "imgLink": "../assets/img/game/tes5.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T13:53:26.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617171fb46a42caee20596a0"
+  },
+  "title": "League of Legends",
+  "type": "MOBA",
+  "release": "Octobre 2009",
+  "description": "League of Legends est un jeu en ligne compétitif où deux équipes de 5 joueurs s'affrontent pour détruire le Nexus (ou base) de l'équipe adverse avant que le leur ne soit détruit. Le jeu s'achève lorsqu'une équipe détruit le Nexus adverse, désignant ainsi l'équipe gagnante.",
+  "imgLink": "../assets/img/game/lol.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T13:58:19.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61717709d43e46af95e7c64b"
+  },
+  "title": "Minecraft",
+  "type": "Sandbox",
+  "theme": "Survival",
+  "release": "Novembre 2011",
+  "description": "Minecraft est un jeu de type bac à sable, c'est à dire qu'il intègre des “outils” pour façonner son propre univers de jeu. Ainsi , le joueur peut à peu près bâtir tout ce qu'il veut. Il existe différents modes de jeu dans lesquels la partie aventure et la partie créative sont plus ou moins développées.",
+  "imgLink": "../assets/img/game/mc.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T14:19:53.047Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61717b2cea191ad7d3d39f88"
+  },
+  "title": "Pokémon Rouge",
+  "type": "JRPG",
+  "release": "Février 1996",
+  "description": "Pokémon rouge, avec pokémon bleu sont les deux premières éditions de la licence pokémon. Vous incarnez un enfant qui participe à un voyage iniciatique où il devra capturer un maximum de pokémon afin de compléter une encyclopédie électronique appelé pokédex.",
+  "imgLink": "../assets/img/game/pkmnRouge.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T14:37:32.030Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61717b2cea191ad7d3d39f89"
+  },
+  "title": "Call of Duty : Black Ops 2",
+  "type": "FPS",
+  "theme": "Militaire - Sci-Fi",
+  "release": "Novembre 2012",
+  "description": "La campagne du jeu reprend l'histoire de Black Ops et se déroule à la fin des années 1980 et en 2025. Dans les années 1980, le joueur passe du contrôle d'Alex Mason à celui de Frank Woods, deux des protagonistes de Black Ops, tandis qu'en 2025, le joueur prend le contrôle du fils de Mason, David (nom de code \"Section\").",
+  "imgLink": "../assets/img/game/codBO2.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T14:37:32.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61717b2cea191ad7d3d39f8a"
+  },
+  "title": "Rome: Total War",
+  "type": "TBS",
+  "theme": "Historique",
+  "release": "Septembre 2004",
+  "description": "Rome : Total War (souvent abrégé en RTW ou Rome) est un jeu de stratégie acclamé par la critique, composé à la fois de stratégie au tour par tour et de tactiques en temps réel, dans lequel le joueur livre des batailles historiques et fictives se déroulant à la fin de la République romaine et au début de l'Empire romain (270 av. J.-C. - 14 av. J.-C.).",
+  "imgLink": "../assets/img/game/rtw.jpg",
+  "dateArticle": {
+    "$date": "2021-10-21T14:37:32.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61727879987b32cd618b0da0"
+  },
+  "title": "Satisfactory",
+  "type": "Sandbox - RPG",
+  "theme": "Industrie",
+  "release": "Mars 2019",
+  "description": "Satisfactory est un jeu de construction d'usines à la première personne dans un monde ouvert, avec un soupçon d'exploration et de combat. Jouez seul ou avec des amis, explorez une planète extraterrestre, créez des usines à plusieurs étages et entrez dans le paradis des tapis roulants !",
+  "imgLink": "../assets/img/game/satis.jpg",
+  "dateArticle": {
+    "$date": "2021-10-22T08:38:17.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61727879987b32cd618b0d9f"
+  },
+  "title": "Sea of Thieves",
+  "type": "Action RPG multijoueur",
+  "theme": "Piraterie",
+  "release": "Mars 2018",
+  "description": "Votre but ultime dans Sea of Thieves est de devenir un pirate de légende. Au fil du jeu, vous rencontrerez un groupe de mystérieux PNJ qui, si vous faites vos preuves, vous révéleront les secrets de ce monde.",
+  "imgLink": "../assets/img/game/sot.jpg",
+  "dateArticle": {
+    "$date": "2021-10-22T08:38:17.610Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61727879987b32cd618b0d9e"
+  },
+  "title": "Black desert",
+  "type": "Sandbox - MMORPG",
+  "theme": "Medieval - Fantasy",
+  "release": "Décembre 2014",
+  "description": "Black Desert est un MMORPG de type bac à sable, vivez des combats rapides et pleins d'action, chassez des monstres et des boss gigantesques, combattez avec vos amis dans une guilde pour assiéger des nœuds et conquérir des châteaux, entraînez-vous à la pêche, au commerce, à l'artisanat, à la cuisine, et bien plus encore !",
+  "imgLink": "../assets/img/game/bdo.jpg",
+  "dateArticle": {
+    "$date": "2021-10-22T08:38:17.606Z"
+  },
+  "__v": 0
+}]
